@@ -4,6 +4,24 @@ domains:
 - localhost
 - localhost
 - localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
+- localhost
 app_properties:
   WELCOME_DATASET_ALIAS: welcome
 default_data_store: Warehouse
