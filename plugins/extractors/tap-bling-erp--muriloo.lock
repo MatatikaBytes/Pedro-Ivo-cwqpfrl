@@ -1,0 +1,16 @@
+{
+  "plugin_type": "extractors",
+  "name": "tap-bling-erp",
+  "namespace": "tap_bling_erp",
+  "variant": "muriloo",
+  "label": "Bling ERP",
+  "docs": "https://www.matatika.com/data-details/tap-bling-erp/",
+  "repo": "https://github.com/Muriloo/tap-bling-erp",
+  "pip_url": "git+https://github.com/Muriloo/tap-bling-erp.git",
+  "description": "Bling ERP is a cloud-based business management software for small and medium-sized enterprises.\n\nBling ERP offers a comprehensive suite of tools to help businesses manage their operations, including inventory management, financial management, sales and purchase management, customer relationship management, and more. The software is designed to be user-friendly and customizable, with features such as automated workflows, real-time reporting, and integrations with popular e-commerce platforms. With Bling ERP, businesses can streamline their processes, improve efficiency, and make data-driven decisions to grow their operations.",
+  "logo_url": "/assets/logos/extractors/bling-erp.png",
+  "capabilities": [
+    "catalog",
+    "discover"
+  ]
+}
